@@ -4,6 +4,6 @@
 ### This is a techfest 2019 Site developer project which was selected in the final round. I have an attached certification in the uploaded files. The project is based on the following languages 
 ### - HTML
 ### - CSS
-### This project is live with github hosting on - (www.rudrathorat.github.io)
+### This project is live with github hosting on - (https://rudrathorat.github.io/)
 ### I'm open to suggestions & future collaborations
 ### Thank you
