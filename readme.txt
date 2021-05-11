@@ -1,1 +1,0 @@
-A website designed to connect people with a community of proactive individuals focused on making the steps of networking and creating workfow among people to help them escalate the day to day problems even better.
